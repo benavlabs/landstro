@@ -69,6 +69,12 @@ Landstro is a feature-rich, production-ready landing page starter designed to he
   - FAQ Section
   - Contact Modal
   - Footer
+ 
+<br>
+<a href="https://fastro.ai">
+  <img width="1394" height="403" alt="fastroai-banner" src="https://github.com/user-attachments/assets/53db61f8-2fa7-46a2-ae91-8d131e0166d4" />
+</a>
+<br>
 
 ## Project Overview
 
