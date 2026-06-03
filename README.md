@@ -569,6 +569,21 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Benav Labs – [benav.io](https://benav.io)
 [github.com/benavlabs](https://github.com/benavlabs/)
 
+## Build the whole SaaS, not just the landing page
+
+**[FastroAI](https://fastro.ai)** is the complete FastAPI SaaS template from the same team: auth, Stripe payments, entitlements, transactional email, an Astro frontend, and PydanticAI agents, wired together and production-ready.
+
+<p align="center">
+  <a href="https://fastro.ai">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/benavlabs/fastcrud/raw/main/docs/assets/fastroai-card-dark.png">
+      <img src="https://github.com/benavlabs/fastcrud/raw/main/docs/assets/fastroai-card-light.png" alt="FastroAI - the complete FastAPI SaaS template: auth, Stripe payments, entitlements, email, frontend and AI" width="100%">
+    </picture>
+  </a>
+</p>
+
+<p align="center"><b><a href="https://fastro.ai">Ship your SaaS faster with FastroAI →</a></b></p>
+
 <hr>
 <a href="https://benav.io">
   <img src="https://github.com/benavlabs/fastcrud/raw/main/docs/assets/benav_labs_banner.png" alt="Powered by Benav Labs - benav.io"/>
